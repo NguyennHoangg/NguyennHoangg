@@ -18,7 +18,7 @@
 
 ## Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,javascript" />
 </p>
@@ -66,7 +66,7 @@
 ---
 
 ##  Projects
-- **Online Bookstore Website** – React + Node.js + SQL Server
+- **Online Bookstore Website** – React + Node.js + PostgreSQL
 -  **5FriendTea Website** – HTML, Bootstrap, JavaScript
 -  **Car Rental System** – Backend & Database Design
 -  **Smart Delivery Locker (SmartBox)** – System Analysis
