@@ -20,7 +20,7 @@
 
 ###  Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,javascript" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript" />
 </p>
 
 ### Frontend
