@@ -35,7 +35,7 @@
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,graphsql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,graphql" />
 </p>
 
 <p>
@@ -74,7 +74,7 @@
 ---
 
 ##  Contact Me
--  Email: nguyenhuyhoang270804@gmail.com@gmail.com
+-  Email: nguyenhuyhoang270804@gmail.com
 -  GitHub: https://github.com/NguyennHoangg
 
 ---
