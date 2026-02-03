@@ -25,12 +25,12 @@
 
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,nest,tailwind,bootstrap,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,html,css" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,nest" />
 </p>
 
 ### Databases
