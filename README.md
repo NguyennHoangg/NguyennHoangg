@@ -9,22 +9,33 @@
 ---
 
 ## About Me
-- 🎓 IT student at Industrial University of Ho Chi Minh City (IUH)
-- 💻 Full-Stack Developer (focus on Backend)
-- ⚙️ Experienced with building RESTful APIs & web systems using Node.js, React, and SQL/NoSQL databases
-- 🚀 Interested in System Design, scalable architectures, and clean code practices
-- 📚 Always learning and improving through real projects
-- 🤝 Open for collaboration on web development & open-source projects
+-  IT student at Industrial University of Ho Chi Minh City (IUH)
+-  Full-Stack Developer (Web & Mobile)
+-  Experienced in building applications using React.js, Node.js, and React Native
+-  Focused on cross-platform mobile development and scalable backend systems
+-  Interested in System Design, RESTful APIs, and performance optimization
+-  Continuously learning and building real-world projects
+-  Open for collaboration and open-source contributions
+
+---
 ## Tech Stack
 
-###  Programming Languages
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript" />
 </p>
 
-### Frontend
+### Frontend (Web)
 <p>
   <img src="https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,html,css" />
+</p>
+
+### Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### Backend
@@ -34,9 +45,8 @@
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,graphql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
@@ -45,7 +55,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=docker,postman,git,github" />
 </p>
-
 ---
 
 ## GitHub Stats
