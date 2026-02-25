@@ -9,13 +9,12 @@
 ---
 
 ## About Me
-- 🎓 Student at **Industrial University of Ho Chi Minh City (IUH)**
-- 🌱 Currently learning **Web Development & Backend Systems**
-- 💡 Interested in **Full-Stack, Backend, System Design**
-- 🤝 Looking to collaborate on **Web & Open-source projects**
-
----
-
+- 🎓 IT student at Industrial University of Ho Chi Minh City (IUH)
+- 💻 Full-Stack Developer (focus on Backend)
+- ⚙️ Experienced with building RESTful APIs & web systems using Node.js, React, and SQL/NoSQL databases
+- 🚀 Interested in System Design, scalable architectures, and clean code practices
+- 📚 Always learning and improving through real projects
+- 🤝 Open for collaboration on web development & open-source projects
 ## Tech Stack
 
 ###  Programming Languages
