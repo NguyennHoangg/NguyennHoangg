@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(Web+%26+Mobile);React.js+%7C+Node.js+%7C+React+Native;Backend+%7C+System+Design+Enthusiast;Always+Learning+and+Building" />
 </p>
----
+
 
 ## About Me
 -  IT student at Industrial University of Ho Chi Minh City (IUH)
@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyennHoangg&layout=compact&theme=tokyonight" />
 </p>
 
----
+
 
 ##  Projects
 - **Online Bookstore Website** – React + Node.js + PostgreSQL
