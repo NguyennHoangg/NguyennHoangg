@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Node.js+%7C+React.js+%7C+Spring+Boot;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+(Web+%26+Mobile);React.js+%7C+Node.js+%7C+React+Native;Backend+%7C+System+Design+Enthusiast;Always+Learning+and+Building" />
 </p>
-
 ---
 
 ## About Me
