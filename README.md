@@ -77,14 +77,6 @@ const nguyen = {
 <div align="center">
 
 
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=NguyennHoangg&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&border_radius=12" />
-
-<!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyennHoangg&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true" />
-
-</div>
-
 ---
 
 ##  Featured Projects
