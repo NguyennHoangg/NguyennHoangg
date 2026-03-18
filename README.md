@@ -24,13 +24,13 @@
 ##  About Me
 
 ```ts
-const nguyen = {
+const Nguyen_Hoang = {
   name    : "Nguyen Hoang",
   school  : "Industrial University of Ho Chi Minh City (IUH)",
   role    : "Full-Stack Developer (Web & Mobile)",
   stack   : ["React.js", "Node.js", "React Native", "NestJS", "Spring Boot"],
   focus   : ["System Design", "RESTful APIs", "Cross-platform Mobile", "Scalable Backends"],
-  status  : "Open to collaborate & contribute to open source 🚀",
+  status  : "Open to collaborate & contribute to open source ",
 };
 ```
 
